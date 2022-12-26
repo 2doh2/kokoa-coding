@@ -171,5 +171,5 @@
     transform: translateX(-12.7%) translateY(-80px);
 }
 .reply:focus-within{
-    transform: translateY(80px);
+    transform: translateY(300px);
 }
